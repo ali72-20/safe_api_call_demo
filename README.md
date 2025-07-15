@@ -1,16 +1,9 @@
-# untitled2
+# Safe Api Call demo
 
-A new Flutter project.
+A safe api call demo to handel api's call in safety way without a lot of try catch or add any packages
 
-## Getting Started
+## video demo 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/ad80f2dc-5a66-4e4c-9360-6171cb3d16ef
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
